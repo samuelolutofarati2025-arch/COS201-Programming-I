@@ -1,7 +1,7 @@
 # COS201 – Programming I
 ## Week 1: Introduction to Programming and Problem-Solving
 ### Student Details
-Name: Layode Boluwatife Oluwadamilare
+Name: Olutofarati Samuel Olayinka
 Programme: Cybersecurity
 Course Code: COS201
 Practical Exercise
@@ -17,8 +17,8 @@ Compiling and executing Java programs.
 Using GitHub for source code management and version control.
 ## Week 2: Setting Up the Development Environment and Writing a Java Program
 Student Information
-Name: Layode Boluwatife Oluwadamilare
-Matriculation Number: 25/16133
+Name: Olutofarati Samuel Olayinka
+Matriculation Number: 25/17842
 Programme: Cybersecurity
 Course: COS201
 Week: 2
